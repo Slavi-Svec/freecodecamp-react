@@ -2,6 +2,6 @@ Instructions: The current code uses JSX to assign a div element to the constant 
 an h1 element and add the text Hello JSX! 
 inside it.
 
-Solution
+Solution:
 
 const JSX = <h1>Hello JSX!</h1>;
